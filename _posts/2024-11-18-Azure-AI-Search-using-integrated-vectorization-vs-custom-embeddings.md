@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure AI Search using integrated vectorization vs custom embeddings
-subtitle: There's lots to learn!
+subtitle: Azure AI Search default embeddings
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
