@@ -16,6 +16,6 @@ This article is to compare using Azure AI Search with integrated vectorization v
 ## Azure AI Searching using integrated data chunking and embedding
 
 ### Setup project folder
-You can refer to [2024-11-19-How-to-Structure-a-Machine-Learning-Project-for-Optimal-MLOps-Efficiency](https://github.com/yulinnextcode/yulinnextcode.github.io/blob/master/_posts/2024-11-19-How-to-Structure-a-Machine-Learning-Project-for-Optimal-MLOps-Efficiency.md) to know more about MLOps project structure.
+You can refer to [How to Structure a Machine Learning Project for Optimal MLOps Efficiency](https://github.com/yulinnextcode/yulinnextcode.github.io/blob/master/_posts/2024-11-19-How-to-Structure-a-Machine-Learning-Project-for-Optimal-MLOps-Efficiency.md) to know more about MLOps project structure.
 
 ### 
