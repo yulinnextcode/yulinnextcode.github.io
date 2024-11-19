@@ -53,4 +53,9 @@ This post will provide you a best practices to structure your ML project to faci
 └── setup.py            # Make this project pip installable with 'pip install -e'
 ```
 
+## References
+<a id="1">[1]</a> 
+Dijkstra, E. W. (1968). 
+Go to statement considered harmful. 
+Communications of the ACM, 11(3), 147-148.
 
