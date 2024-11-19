@@ -2,8 +2,6 @@
 layout: post
 title: How to Structure a Machine Learning Project for Optimal MLOps Efficiency
 subtitle: MLOps project structure
-gh-repo: yulinnextcode/yulinnextcode.github.io
-gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
