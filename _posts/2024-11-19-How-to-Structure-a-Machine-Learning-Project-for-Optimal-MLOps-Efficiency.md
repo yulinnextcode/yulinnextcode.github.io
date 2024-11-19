@@ -39,6 +39,9 @@ This post will provide you a best practices to structure your ML project to faci
 │   │   └── silver      # intermediate processed data
 │   ├── models          # deployment ready models
 │   ├── notebooks       # jupyter notebooks
+│   │   ├── Exploratory.ipynb   # notebooks for data exploration and visualization
+│   │   ├── Modeling.ipynb      # notebooks for model development, training and evaluation
+│   │   └── Inference.ipynb     # notebooks for deploying and using trained models for predictions
 │   ├── scripts         # scripts to train, test models and then use the trained models to make predictions
 │   │   ├── test_model.py       # scripts for running tests on models
 │   │   └── train_model.py      # scripts for training models
