@@ -58,4 +58,8 @@ This post will provide you a best practices to structure your ML project to faci
 Dijkstra, E. W. (1968). 
 Go to statement considered harmful. 
 Communications of the ACM, 11(3), 147-148.
+<a id="2">[2]</a> 
+[How to Structure a Machine Learning Project for Optimal MLOps Efficiency](https://medium.com/@craftworkai/how-to-structure-a-machine-learning-project-for-optimal-mlops-efficiency-0046e15ce033)
+<a id="3">[3]</a> 
+[Generic Folder Structure for your Machine Learning Projects](https://dev.to/luxacademy/generic-folder-structure-for-your-machine-learning-projects-4coe)
 
