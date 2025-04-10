@@ -32,20 +32,33 @@ Assume you are a specialist for toddler education and I am a parent of a 3-5 yea
 ## User prompts
 （1sr round）
 I'm trying to get some recommendation for 3-5 years old toddlers' curriculum at home to teach them. Please refer to the following websites contents:
-https://www.reddit.com/r/homeschool/comments/1cu1wl8/i_plan_to_buy_all_about_reading_to_teach_my/ 
-https://www.quora.com/What-is-the-curriculum-for-preschool-and-what-are-the-benefits-of-sending-children-there-compared-to-homeschooling-or-private-teaching-at-home 
-https://teachingstrategies.com/product/the-creative-curriculum-for-preschool/#:~:text=The%20%231%20Ranked%20Preschool%20Curriculum,and%20mathematics%20throughout%20the%20day .
-https://mybrightwheel.com/blog/types-of-preschool-programs 
-https://www.heischools.com/blog/choosing-the-best-curriculum-for-your-kindergarten#:~:text=Montessori%20curriculum,%2C%20and%20hands%2Don%20learning .
-https://teachingstrategies.com/demos/creative-curriculum-for-preschool/#:~:text=Product%20Demo-,The%20Creative%20Curriculum%20for%20Preschool:%20The%20Most%20Widely,Preschool%20Program%20in%20the%20Nation 
-https://www.reddit.com/r/homeschool/comments/h102ew/prek_curriculum_whats_everyones_favorite/ 
-https://www.reddit.com/r/homeschool/comments/tzayxz/son_is_prek_looking_for_best_homeschool_curriculum/ 
-https://www.letteroftheweek.com/alphabet_intro_week.html 
-https://torchlightcurriculum.com/torchlight/ 
-https://naturehomeschool.com/build-your-library-torchlight-curriculum/ 
-https://secularhsinvt.wordpress.com/2018/02/21/build-your-library-vs-torchlight/ 
-https://torchlightcurriculum.com/torchlight/torchlight-level-pre-k/ 
-https://www.goodandbeautiful.com/?srsltid=AfmBOopj2fKr77bNql_MsPIS1kdE_jDs_ZD7BcuRdrXjdnvBN97sjpro 
+1. https://www.reddit.com/r/homeschool/comments/1cu1wl8/i_plan_to_buy_all_about_reading_to_teach_my/ 
+
+2. https://www.quora.com/What-is-the-curriculum-for-preschool-and-what-are-the-benefits-of-sending-children-there-compared-to-homeschooling-or-private-teaching-at-home 
+
+3. https://teachingstrategies.com/product/the-creative-curriculum-for-preschool/#:~:text=The%20%231%20Ranked%20Preschool%20Curriculum,and%20mathematics%20throughout%20the%20day .
+
+4. https://mybrightwheel.com/blog/types-of-preschool-programs 
+
+5. https://www.heischools.com/blog/choosing-the-best-curriculum-for-your-kindergarten#:~:text=Montessori%20curriculum,%2C%20and%20hands%2Don%20learning .
+
+6. https://teachingstrategies.com/demos/creative-curriculum-for-preschool/#:~:text=Product%20Demo-,The%20Creative%20Curriculum%20for%20Preschool:%20The%20Most%20Widely,Preschool%20Program%20in%20the%20Nation 
+
+7. https://www.reddit.com/r/homeschool/comments/h102ew/prek_curriculum_whats_everyones_favorite/ 
+
+8. https://www.reddit.com/r/homeschool/comments/tzayxz/son_is_prek_looking_for_best_homeschool_curriculum/ 
+
+9. https://www.letteroftheweek.com/alphabet_intro_week.html 
+
+10. https://torchlightcurriculum.com/torchlight/ 
+
+11. https://naturehomeschool.com/build-your-library-torchlight-curriculum/ 
+
+12. https://secularhsinvt.wordpress.com/2018/02/21/build-your-library-vs-torchlight/ 
+
+13. https://torchlightcurriculum.com/torchlight/torchlight-level-pre-k/ 
+
+14. https://www.goodandbeautiful.com/?srsltid=AfmBOopj2fKr77bNql_MsPIS1kdE_jDs_ZD7BcuRdrXjdnvBN97sjpro 
 
 Please summarize the above contents following thses criterias:
 If the website are from advertisement, then their weights will be decreased. If the contents are shared by other parents, then their weights should be increased
