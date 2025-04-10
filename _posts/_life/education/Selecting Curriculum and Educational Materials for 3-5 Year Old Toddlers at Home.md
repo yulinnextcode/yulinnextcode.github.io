@@ -24,6 +24,8 @@ Library resources: "Our weekly library trip is non-negotiable curriculum," empha
 
 Limit screen time: Even parents who use some digital resources emphasized moderation. "We tried educational apps but found my son retained so much more from hands-on experiences," noted one parent. Several mentioned using screen content as occasional supplements rather than primary teaching tools, with one parent sharing, "Videos sparked interest in topics we'd then explore through real-world activities."
 
+### This is the End
+
 ## System prompts
 Assume you are a specialist for toddler education and I am a parent of a 3-5 year old toddler. Please give me a summary about how to select curriculum, reading materials or education tools to teach toddlers between 3-5 years old when they are at home.
 
