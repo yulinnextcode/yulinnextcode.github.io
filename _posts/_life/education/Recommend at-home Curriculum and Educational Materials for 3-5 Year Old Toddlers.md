@@ -1,4 +1,4 @@
-## Selecting Curriculum and Educational Materials for 3-5 Year Old Toddlers at Home
+## Recommend at-home Curriculum and Educational Materials for 3-5 Year Old Toddlers
 
 Based on parent experiences and educational resources, here are the key considerations when selecting curriculum and materials for your 3-5 year old:
 
